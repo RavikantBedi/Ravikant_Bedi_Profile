@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ravikant Bedi</h1>
-<h3 align="center">Aspiring Software Engineer| Full-Stack Developer | Open Source & Coding Enthusiast" "Tech Explorer | Web Developer | C++ Programmer | Problem Solver| Passionate Coder | Cloud & Web Dev Enthusiast</h3>
+<h3 align="center">Aspiring Software Engineer| Full-Stack Developer | Open Source & Coding Enthusiast | Tech Explorer | Web Developer | C++ Programmer | Problem Solver| Passionate Coder | Cloud & Web Dev Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravikantbedi&label=Profile%20views&color=0e75b6&style=flat" alt="ravikantbedi" /> </p>
 
